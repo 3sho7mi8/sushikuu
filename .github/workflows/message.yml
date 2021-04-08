@@ -1,0 +1,11 @@
+name: Put Message
+
+on: push
+
+jobs:
+  message:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: just echo a message
+        run: echo "Hello SUSHI!"
