@@ -1,6 +1,8 @@
 name: Put Message
 
-on: push
+on:
+  tags:
+    - v1.*
 
 jobs:
   message:
@@ -8,4 +10,4 @@ jobs:
 
     steps:
       - name: just echo a message
-        run: echo "Hello SUSHI!"
+        run: echo "Hello SUSHI! v1*****"
