@@ -1,0 +1,13 @@
+name: Release
+
+on:
+  release:
+    types: published
+
+jobs:
+  message:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: just echo a message
+        run: echo "Publishe!!!!! SUSHI! v1*****"
