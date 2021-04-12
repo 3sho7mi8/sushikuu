@@ -2,6 +2,8 @@ name: Release
 
 on:
   release:
+    path:
+      - "sushi/**"
     types: published
 
 jobs:
