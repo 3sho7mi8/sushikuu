@@ -1,2 +1,4 @@
 toro
 maguro
+uni
+wakame
