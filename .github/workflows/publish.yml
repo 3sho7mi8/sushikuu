@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: actions/checkout@v2
+
       - name: just echo a message
         run: echo "Publishe!!!!! SUSHI! v1*****"
 
