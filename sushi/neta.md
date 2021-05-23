@@ -5,3 +5,4 @@ wakame
 sakana
 
 chicken
+kara-age
