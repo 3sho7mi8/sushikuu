@@ -15,4 +15,5 @@ jobs:
         run: echo "Publishe!!!!! SUSHI! v1*****"
 
       - name: watch neta
-        run: cat sushi/neta.md
+        run: cat neta.md
+        working-directory: ./sushi
