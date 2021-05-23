@@ -12,3 +12,6 @@ jobs:
     steps:
       - name: just echo a message
         run: echo "Hello SUSHI! v1*****"
+
+      - name: watch sushi neta
+        run: cat ./sushi/neta.md
