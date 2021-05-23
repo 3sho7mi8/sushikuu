@@ -13,3 +13,6 @@ jobs:
     steps:
       - name: just echo a message
         run: echo "Publishe!!!!! SUSHI! v1*****"
+
+      - name: watch neta
+        run: cat sushi/neta.md
