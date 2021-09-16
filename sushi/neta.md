@@ -1,5 +1,15 @@
+maguro
+toro
+toro
+toro
+toro
 toro
 maguro
+uni
+uni
+uni
+uni
+uni
 uni
 wakame
 sakana
