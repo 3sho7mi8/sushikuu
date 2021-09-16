@@ -6,6 +6,11 @@ toro
 toro
 maguro
 uni
+uni
+uni
+uni
+uni
+uni
 wakame
 sakana
 sakana
